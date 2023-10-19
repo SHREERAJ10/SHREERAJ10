@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**SHREERAJ10/SHREERAJ10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<b>I am Shreeraj Shrestha, currently a high schook student, from Nepal. Apart from school I like to learn and develop my coding and problem solving skills by simply coding and making projects.</b>
 
 - 🔭 I’m currently working on larning and developing my coding and problem solving skills.
 - 🌱 I’m currently learning python (pygame).
