@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently working on some small projects focusing on building real life useful projects.
 - 🌱 I’m currently learning Machine Learning basics.
-- 📫 How to reach me: shreerajshrestha113@gmail.com
+- 📫 How to reach me: shreerajshresth.dev@gmail.com
